@@ -4,7 +4,7 @@
 <form class="uk-form uk-form-horizontal forms" id="forms">
 <?php echo CHtml::hiddenField('action','analyticsSetting')?>
 
-
+hgbyefe
 
 
 <p class="uk-text-muted">
